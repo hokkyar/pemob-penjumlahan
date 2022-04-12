@@ -23,7 +23,6 @@ class _Pertemuan10State extends State<Pertemuan10> {
     output.text = hasil.toString();
   }
 
-  int num = 15;
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
